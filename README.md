@@ -7,8 +7,8 @@ Contate-me no <a href="https://www.linkedin.com/in/diogo-namie-650b2219/">Linked
 
 <div align="center">
   <a href="https://github.com/diogokn">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=diogokn&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogokn&layout=compact&langs_count=7&theme=dark"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=diogokn&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogokn&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div align="center">
 <!--
