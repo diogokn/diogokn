@@ -1,6 +1,7 @@
 ## Olá! Bem Vindo!  👋
 
-Sobre mim:
+Meu nome é Diogo Namie experiencia em desenvolvimento. <br>
+Contate-me no <a href="https://www.linkedin.com/in/diogo-namie-650b2219/">Linkedin</a>
 - 🔭 Interesse em APIGEE, AZURE e AWS.
 - 🌱 Estudando .NET Core 6.
 
