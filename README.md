@@ -1,6 +1,6 @@
 ### Olá! Bem Vindo!  👋
 
-Algo sobre quem sou:
+Sobre mim:
 
 - 🔭 Interesse em APIGEE, AZURE e AWS.
 - 🌱 Estudando .NET Core 6
