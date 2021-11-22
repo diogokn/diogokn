@@ -3,8 +3,8 @@
 Sobre mim:
 
 - 🔭 Interesse em APIGEE, AZURE e AWS.
-- 🌱 Estudando .NET Core 6
-- 💬 Interesse em BackEnd
+- 🌱 Estudando .NET Core 6.
+- 💬 Interesse em aprender novas linguagens.
 
 <div align="center">
   <a href="https://github.com/diogokn">
