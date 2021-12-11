@@ -1,6 +1,6 @@
 ## Olá! Bem Vindo!  👋
 
-Meu nome é Diogo Namie tenho experiencia em desenvolvimento e gestão. <br>
+Meu nome é Diogo Namie tenho experiência em desenvolvimento e gestão. <br>
 Contate-me no <a href="https://www.linkedin.com/in/diogo-namie-650b2219/">Linkedin</a>
 - 🔭 Compartilhar conhecimento.
 - 🌱 Estudando atualmente: .NET Core 6
