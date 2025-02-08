@@ -3,7 +3,7 @@
 Meu nome é Diogo Namie tenho experiência em desenvolvimento e gestão. <br>
 Contate-me no <a href="https://www.linkedin.com/in/diogo-namie-650b2219/">Linkedin</a>
 - 🔭 Compartilhar conhecimento.
-- 🌱 Estudando atualmente: .NET Core 6
+- 🌱 Estudando atualmente: .NET Core 
 - https://stackoverflow.com/users/17154597/diogo-namie
 
 <div align="center">
