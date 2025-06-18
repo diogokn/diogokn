@@ -1,10 +1,11 @@
 ## Olá! Bem Vindo!  👋
 
-Meu nome é Diogo Namie tenho experiência em desenvolvimento e gestão. <br>
-Contate-me no <a href="https://www.linkedin.com/in/diogo-namie-650b2219/">Linkedin</a>
-- 🔭 Compartilhar conhecimento.
-- 🌱 Estudando atualmente: .NET Core 
-- https://stackoverflow.com/users/17154597/diogo-namie
+Olá, meu nome é Diogo Namie. <br>
+Tenho sólida experiência em liderança e gestão de times e engenharia de software. <br>
+Contate-me no <a href="https://www.linkedin.com/in/diogo-namie-650b2219/">Linkedin</a> <br>
+- 🌱 Conhecimento: JAVA/.NET
+- 🔭 Estudos: Inteligência Artificial (Cursor IA e IA Generativa)
+-  Plataforma: <a href="https://stackoverflow.com/users/17154597/diogo-namie/">Stack Overflow</a>
 
 <div align="center">
   <a href="https://github.com/diogokn">
@@ -17,9 +18,13 @@ Contate-me no <a href="https://www.linkedin.com/in/diogo-namie-650b2219/">Linked
 -->
 </div>
 <div style="display: inline_block">
-  <img align="center" alt="Diogokn-NetCore" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
-  <img align="center" alt="Diogo-Net" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg">
+  <img align="center" alt="Diogokn-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+  <img align="center" alt="Diogokn-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg">
+  <img align="center" alt="Diogokn-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg">
+  <img align="center" alt="Diogokn-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="Diogo-Net" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="Diogo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Diogo-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img align="center" alt="Diogo-Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
   <img align="center" alt="Diogo-Apigee" height="100" width="100" src="https://www.logo.wine/a/logo/Apigee/Apigee-Logo.wine.svg">
   <img align="center" alt="Diogo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -35,6 +40,6 @@ Contate-me no <a href="https://www.linkedin.com/in/diogo-namie-650b2219/">Linked
   <a href="https://instagram.com/diogonamie" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:diogokn@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/diogo-namie-650b2219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/diogo-namie-650b2219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
  
 </div>
