@@ -37,6 +37,7 @@ Contate-me no <a href="https://www.linkedin.com/in/diogo-namie-650b2219/">Linked
   <img align="center" alt="Diogo-Conf" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Diogo-Conf" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg">
 </div>  
+<br>
 <div> 
   <a href="https://instagram.com/diogonamie" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:diogokn@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
