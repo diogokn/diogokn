@@ -3,7 +3,7 @@
 Olá, meu nome é Diogo Namie. <br>
 Tenho sólida experiência em liderança e gestão de times e engenharia de software. <br>
 Contate-me no <a href="https://www.linkedin.com/in/diogo-namie-650b2219/">Linkedin</a> <br>
-- 🌱 Conhecimento e apaixonado em engenharia de software
+- 🌱 Entusiasta da engenharia de software, movido por desafios.
 - 🔭 Estudos: Inteligência Artificial (Cursor IA e IA Generativa)
 -  Plataforma: <a href="https://stackoverflow.com/users/17154597/diogo-namie/">Stack Overflow</a>
 
